@@ -1,0 +1,2 @@
+- Para instalar as dependências: `npm install`
+- Para rodar: `node index.js`
